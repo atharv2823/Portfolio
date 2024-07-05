@@ -262,6 +262,9 @@ p{
     text-transform: uppercase;
     margin-bottom: 0.3125rem;
 }
+.services{
+    height: 100px;
+}
 
 /* 5 services */
 .services_wrapper .card{
